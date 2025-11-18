@@ -34,3 +34,13 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# cursor
+.cursor/
+
+# environment variables (keep all .env files private)
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
