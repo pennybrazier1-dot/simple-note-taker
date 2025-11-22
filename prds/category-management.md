@@ -182,3 +182,4 @@ Notes:
 - Add RLS policies in Supabase if directly accessing via Supabase client; if using Drizzle over pooled connection, always scope by userId in queries.
 - Use Vercel env vars for database; actions run on the server only.
 
+

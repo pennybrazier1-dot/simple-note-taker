@@ -193,3 +193,4 @@ Notes for Production:
 - Consider adding structured logging and error boundary UI.
 - Add indexes already included for performance; monitor query plans if dataset grows.
 
+
