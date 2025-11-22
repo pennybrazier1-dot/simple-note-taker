@@ -14,8 +14,8 @@ import { claimPendingProfile } from "@/actions/whop-actions";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Template App",
-  description: "A full-stack template for modern web applications."
+  title: "CodeSpring Notes",
+  description: "A simple, secure note-taking application."
 };
 
 export default async function RootLayout({ children }: { children: React.ReactNode }) {

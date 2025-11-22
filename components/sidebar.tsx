@@ -1,5 +1,5 @@
 /**
- * Sidebar component for the Template App
+ * Sidebar component for CodeSpring Notes
  * Provides primary navigation for the dashboard with a clean, modern UI
  * Features user avatar at the bottom and billing management option
  */
@@ -108,10 +108,10 @@ export default function Sidebar({ profile, userEmail, whopMonthlyPlanId, whopYea
               transition={{ duration: 0.2 }}
             >
               <div className="hidden md:block">
-                <span className="font-bold text-lg">App Name</span>
+                <span className="font-bold text-lg">CodeSpring Notes</span>
               </div>
               <div className="block md:hidden text-center">
-                <span className="font-bold text-sm">A</span>
+                <span className="font-bold text-sm">N</span>
               </div>
             </motion.div>
           </Link>

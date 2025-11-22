@@ -18,7 +18,7 @@ const connectionOptions = {
   keepalive: true,      // Keep connections alive
   debug: false,         // Disable debug logging in production
   connection: {
-    application_name: "whop-boilerplate" // Identify app in Supabase logs
+    application_name: "code-spring-notes" // Identify app in Supabase logs
   }
 };
 
